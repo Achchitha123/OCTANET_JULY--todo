@@ -30,7 +30,7 @@ function Todo() {
 
 
 <div style={styles.addTodoContainer}>
-                <h1 style={styles.addTodoTitle}>Add Todo</h1>
+                <h1 style={styles.addTodoTitle}>Todo App</h1>
                 <input
                     type="text"
                     value={newTodo}
