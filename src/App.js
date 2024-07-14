@@ -108,7 +108,7 @@ const styles = {
         flexDirection: 'column',
         alignItems: 'center',
         padding: '20px',
-        background: 'linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%)',
+        background: 'linear-gradient(#4E65FF,#92EFFD)',
         minHeight: '100vh',
     },
     errorCard: {
